@@ -18,7 +18,7 @@ LPDiscordLogger is a Minecraft Paper plugin that logs specific player commands e
 ## Installation
 
 1. **Download the Plugin**:
-   - [Download the latest release](#) of LPDiscordLogger.
+   - [Download the latest release]([https://github.com/PetalCat/LPDiscordLogger/releases]) of LPDiscordLogger.
 
 2. **Add to Plugins Folder**:
    - Place the downloaded `LPDiscordLogger.jar` file into your server's `plugins` directory.
