@@ -1,0 +1,7 @@
+discordWebhookUrl: "https://discord.com/api/webhooks/your_webhook_id/your_webhook_token"
+targetGroup: "admin"
+ignoredCommands:
+	- /msg
+	- /tell
+	- /w
+	- /whisper

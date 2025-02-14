@@ -1,0 +1,9 @@
+name: LPDiscordLogger
+version: '${project.version}'
+main: com.petalcat.logger.LPDiscordLogger
+api-version: '1.21'
+
+commands:
+  lpdiscordreload:
+    description: Reloads the LPDiscordLogger configuration.
+    usage: /<command>
